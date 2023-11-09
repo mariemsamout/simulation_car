@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/mariemsamout/simulation_car
+git clone https://github.com/mariemsamout/simulation_car.git
 Install the required dependencies:
 
 
